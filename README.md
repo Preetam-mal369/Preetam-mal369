@@ -29,7 +29,7 @@
 - Email: preetammalakar0501@gmail.com.
 - Alt Email: preetamsaini0501@gmail.com.
 
-- Tech Stack:
+🧑🏻‍💻 Tech Stack:
 - Frontend: React, Next.js, Angular, JavaScript.
 -  Backend: Python, Flask, Node.js, Express.js, TypeScript, GraphQL.
 -  Database: MongoDB, PostgreSQL.
