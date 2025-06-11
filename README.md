@@ -31,7 +31,7 @@
 
 - Tech Stack:
 - Frontend: React, Next.js, Angular, JavaScript.
-  Backend: Python, Flask, Node.js, Express.js, TypeScript, GraphQL.
-  Database: MongoDB, PostgreSQL.
-  DevOps Tools: AWS, Docker, GitHub, Kubernetes.
+-  Backend: Python, Flask, Node.js, Express.js, TypeScript, GraphQL.
+-  Database: MongoDB, PostgreSQL.
+-  DevOps Tools: AWS, Docker, GitHub, Kubernetes.
 
