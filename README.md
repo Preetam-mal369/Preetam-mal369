@@ -4,20 +4,19 @@
 ---
 
 🔭 I’m currently working on:
-- 🚗 A Car Price Predictor using Machine Learning
-- 🛒 POS software for automobile showrooms and restaurants
-- 🌐 A used car listing website
-- 🛰️ A Webhook App built using Node.js and Python for automation and integration tasks
+- MERN Stack and Cloud Computing.
+- A used car listing website.
+- A Webhook App built using Node.js and Python for automation and integration tasks.
 
 🌱 I’m currently learning:
 - AI/ML fundamentals with real-world projects
-- Full-stack development using Angular, Node.js, and MongoDB
+- Amazon Web Services.
 - Deployment (from local to cloud)
 
 👯 I’m looking to collaborate on:
-- AI-driven web apps
-- Practical software solutions for small businesses
-- Backend integrations and automation with webhooks
+- AI-driven web apps and projects.
+- Practical software solutions for automating businesses.
+- Backend integrations and automation with webhooks.
 
 💬 Ask me about:
 - Getting started in full-stack or AI projects
